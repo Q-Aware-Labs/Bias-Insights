@@ -1,7 +1,7 @@
 About the project:
 
-Bias Insights is a small Statistical Analysis Project for bias detection in a dataset before it is used to train a language model:
-Decting bias in a dataset before it is used is a fundamental process in the development of a language model, by doing this we reduce possible 
+Bias Insights is a small Statistical Analysis Project for bias detection in a dataset before it is used to train a language model.
+Decting bias in a dataset before it is used for training is a fundamental process in the development of a language model.
 
 In this project I will be using the Chicago Face Database as my main dataset. 
 This is a short description of the dataset published on their official web (https://www.chicagofaces.org/):
