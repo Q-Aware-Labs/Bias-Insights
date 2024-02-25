@@ -10,13 +10,14 @@ A C K N O W L E D G E M E N T
 
 The dataset is composed of various sections.
 
-I will be focused on the main CFD folder. This folder contains pictures of individuals of 4 different ethnics groups: Asian, Black, Latin and White. Each group is divided in Females and Males.
+I will be focused on the main CFD folder. This folder contains a total of 597 pictures of individuals of 4 different ethnics groups: Asian, Black, Latin and White. Each group is divided in Females and Males.
+For each ethnic group we have male and female:
 
-I am going to collect two sets of data:
+![enter image description here](https://github.com/antonyga/Bias-Insights/blob/main/Media/Data%20Preparation.png?raw=true)
+
+I am going to collect two types of values for each subcategory:
 
 1. **Observed frecuencies:** are the actual number of individuals aged over 60 in each ethnic group in your dataset.
-
-   
 
 3. **Expected frecuencies:** are what you would expect if there was no age bias.
 
