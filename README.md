@@ -12,13 +12,11 @@ This is a short description of the dataset published on their official web (http
 
 After observing the dataset, I have formulated the following hypothesis:
 
-"The Chicago Face Database, while comprehensive, appears to have an underrepresentation of individuals aged 60 and above. This observed age bias could potentially impact the performance of machine learning models trained on this dataset, particularly in tasks involving the generation or recognition of faces belonging to this age group. Consequently, it is hypothesized that a model trained on this dataset may exhibit decreased accuracy and reliability when applied to faces of individuals older than 60 years old. This project aims to statistically validate this hypothesis and explore potential mitigation strategies to address this bias, thereby enhancing the model’s performance across all age groups."
+"The Chicago Face Database, while comprehensive, appears to have an underrepresentation of individuals aged 60 and above. This observed age bias could potentially impact the performance of machine learning models trained on this dataset, particularly in tasks involving the generation or recognition of faces belonging to this age group. Consequently, it is hypothesized that a model trained on this dataset may exhibit decreased accuracy and reliability when applied to faces of individuals older than 60 years old." 
 
-To demonstrate whether my hypothesis is right or not I WILL use a statistical analysis thecnique called: chi-square test.
+This project aims to statistically validate this hypothesis and explore potential mitigation strategies to address this bias, thereby enhancing the model’s performance across all age groups.
 
-In the following page I will give details of every step.
-
-A chi-square test is used to compare the observed frequencies with the expected frequencies. The Chi-Square test will give you a p-value that you can use to determine whether the difference between the observed and expected frequencies is statistically significant.
+To demonstrate whether my hypothesis is right or not I will use a statistical analysis thecnique called: chi-square test.
 
 CHICAGO FACE DATABASE (CFD) DATASET  A C K N O W L E D G E M E N T 
 CFD: Ma, Correll, & Wittenbrink (2015). The Chicago Face Database: A Free Stimulus Set of Faces and Norming Data. Behavior Research Methods, 47, 1122-1135. https://doi.org/10.3758/s13428-014-0532-5.
