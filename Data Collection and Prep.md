@@ -1,6 +1,6 @@
 In this project I will be using the Chicago Face Database as my main dataset.
 
-Link de descarga:  [https://www.chicagofaces.org/](https://www.chicagofaces.org/)
+Download link:  [https://www.chicagofaces.org/](https://www.chicagofaces.org/)
 
 A C K N O W L E D G E M E N T
 
