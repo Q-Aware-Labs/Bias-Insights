@@ -1,4 +1,6 @@
-A chi-square test is used to compare the observed frequencies with the expected frequencies in a dataset. The Chi-Square test will give you a p-value that you can use to determine whether the difference between the observed and expected frequencies is statistically significant.
+A chi-square (Goodness of fit) test is used to compare the observed frequencies with the expected frequencies in a dataset. The Chi-Square test will give you a p-value that you can use to determine whether the difference between the observed and expected frequencies is statistically significant.
+
+![image](https://github.com/antonyga/Bias-Insights/assets/64359859/df242f29-4ee2-422f-b71b-55e531c157d1)
 
 The formula to execute the chi-square test is:
 
