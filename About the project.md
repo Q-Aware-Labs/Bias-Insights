@@ -1,4 +1,4 @@
-******* 🚧⚠️ PROJECT IS UNDER CONSTRUCTION 🚧⚠️ *********
+******* 🚧⚠️ PROJECT IS UNDER CONSTRUCTION ⚠️🚧 *********
 
 **ABOUT THE PROJECT**
 
