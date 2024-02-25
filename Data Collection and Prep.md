@@ -14,8 +14,10 @@ I will be focused on the main CFD folder. This folder contains pictures of indiv
 
 I am going to collect two sets of data:
 
-1. **Observed frecuencies:** are the actual number of individuals aged over 60 in each age group in your dataset.
+1. **Observed frecuencies:** are the actual number of individuals aged over 60 in each ethnic group in your dataset.
 
-2. **Expected frecuencies:** are what you would expect if there was no age bias.
+   
+
+3. **Expected frecuencies:** are what you would expect if there was no age bias.
 
 ![enter image description here](https://github.com/antonyga/Bias-Insights/blob/main/Media/Data%20Preparation.png?raw=true)
