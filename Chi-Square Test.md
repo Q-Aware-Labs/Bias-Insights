@@ -15,13 +15,16 @@ Observed frequency = TBD
 Expected frequency = 7
 Each ethnic group is expected to have at least 7 individuals aged over 60.
 
-...To be continued
+
+...To be continued.
 
 
 
 REFERENCES:
 
 https://www.youtube.com/watch?v=qYOMO83Z1WU
+
 https://www.youtube.com/watch?v=WXPBoFDqNVk
+
 https://sl.bing.net/gFFjvh4gcGi
 
