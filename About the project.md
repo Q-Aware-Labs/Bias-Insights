@@ -1,3 +1,5 @@
+******* 🚧⚠️ PROJECT IS UNDER CONSTRUCTION 🚧⚠️ *********
+
 About the project:
 
 Bias Insights is a small Statistical Analysis Project for bias detection in a dataset before it is used to train a language model.
