@@ -8,7 +8,7 @@ Decting bias in a dataset before it is used for training is a fundamental proces
 In this project I will be using the Chicago Face Database as my main dataset. 
 This is a short description of the dataset published on their official web (https://www.chicagofaces.org/):
 
-"The Chicago Face Database was developed at the University of Chicago by Debbie S. Ma, Joshua Correll, and Bernd Wittenbrink. The CFD is intended for use in scientific research. It provides high-resolution, standardized photographs of male and female faces of varying ethnicity between the ages of 17-65. Extensive norming data are available for each individual model. These data include both physical attributes (e.g., face size) as well as subjective ratings by independent judges (e.g., attractiveness)."
+*"The Chicago Face Database was developed at the University of Chicago by Debbie S. Ma, Joshua Correll, and Bernd Wittenbrink. The CFD is intended for use in scientific research. It provides high-resolution, standardized photographs of male and female faces of varying ethnicity between the ages of 17-65. Extensive norming data are available for each individual model. These data include both physical attributes (e.g., face size) as well as subjective ratings by independent judges (e.g., attractiveness)."*
 
 After observing the dataset, I have formulated the following hypothesis:
 
