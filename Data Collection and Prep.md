@@ -13,7 +13,7 @@ The dataset is composed of various sections.
 I will be focused on the main CFD folder. This folder contains a total of 597 pictures of individuals of 4 different ethnics groups: Asian, Black, Latin and White. Each group is divided in Females and Males.
 For each ethnic group we have male and female:
 
-![enter image description here](https://github.com/antonyga/Bias-Insights/blob/main/Media/Data%20Preparation.png?raw=true)
+![Ethnic Groups](https://github.com/antonyga/Bias-Insights/blob/main/Media/Ethnic%20Groups.png?raw=true)
 
 I am going to collect two types of values for each subcategory:
 
