@@ -12,7 +12,7 @@ My data:
 
 Each ethnic group is expected to have at least 5 individuals aged over 60.
 
-
+![enter image description here](https://github.com/antonyga/Bias-Insights/blob/main/Media/Chi-square%20test%20main%20formula.png?raw=true)
 
 ...To be continued.
 
