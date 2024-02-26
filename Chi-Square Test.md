@@ -10,11 +10,9 @@ EF = Expected Frequency
 
 My data:
 
-Each ethnic group is expected to have at least 6 individuals aged over 60.
+Each ethnic group is expected to have at least 5 individuals aged over 60.
 
-Expected frequency = 6
 
-Observed frequency = TBD
 
 ...To be continued.
 
