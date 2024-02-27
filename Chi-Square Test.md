@@ -26,7 +26,11 @@ Each ethnic group is expected to have at least 5 individuals aged over 60.
 
 After calculating the chi-square value, our next step is to evaluate the results using a probability table. In the first column, we find the degrees of freedom (DF), with our focus on row number 7.
 
+![enter image description here](https://github.com/antonyga/Bias-Insights/blob/main/Media/Probability%20Level%20Table%202.png?raw=true)
+
 Our critical value is determined to be 14.067.
+
+![enter image description here](https://github.com/antonyga/Bias-Insights/blob/main/Media/Probability%20Level%20Table%202.png?raw=true)
 
 The final step involves comparing our calculated chi-square value with the critical value from the table. If the chi-square value exceeds the critical value significantly, we accept our hypothesis as valid.
 
