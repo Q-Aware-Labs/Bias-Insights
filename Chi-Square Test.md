@@ -20,7 +20,6 @@ The observed frequencies are the actual number of individuals in each age group 
 The expected frequencies are what you would expect if there was no age bias.
 
 To determine the actual values for OF and EF I have generated the following table:
-Each ethnic group is expected to have at least 5 individuals aged over 60.
 
 ![enter image description here](https://github.com/antonyga/Bias-Insights/blob/main/Media/Observed%20Frequency%20vs%20Observed%20Frequency%20Table.png?raw=true)
 
