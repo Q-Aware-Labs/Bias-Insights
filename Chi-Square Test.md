@@ -37,6 +37,8 @@ Our critical value is determined to be 14.067.
 
 The final step involves comparing our calculated chi-square value with the critical value from the table. If the chi-square value exceeds the critical value significantly, we accept our hypothesis as valid.
 
+chi-square value (71.1) > Critical Value (14.067)
+
 In this specific case, the statement holds true, leading us to conclude that there exists a significant bias in the age subcategory of individuals aged 60 and above.
 
 It’s important to note that a language model trained solely on this dataset may exhibit unexpected behavior when recognizing or generating images of individuals older than 60 years old.
