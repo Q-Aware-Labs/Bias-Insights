@@ -24,7 +24,23 @@ Each ethnic group is expected to have at least 5 individuals aged over 60.
 
 ![enter image description here](https://github.com/antonyga/Bias-Insights/blob/main/Media/Observed%20Frequency%20vs%20Observed%20Frequency%20Table.png?raw=true)
 
+After calculating the chi-square value, our next step is to evaluate the results using a probability table. In the first column, we find the degrees of freedom (DF), with our focus on row number 7.
 
+Our critical value is determined to be 14.067.
+
+The final step involves comparing our calculated chi-square value with the critical value from the table. If the chi-square value exceeds the critical value significantly, we accept our hypothesis as valid.
+
+In this specific case, the statement holds true, leading us to conclude that there exists a significant bias in the age subcategory of individuals aged 60 and above.
+
+It’s important to note that a language model trained solely on this dataset may exhibit unexpected behavior when recognizing or generating images of individuals older than 60 years old.
+
+  **DISCLAIMER:**
+
+The findings presented in this project are based on rigorous analysis and interpretation. However, it is essential to recognize that these results are not official or universally applicable. Variations may exist due to factors such as sample size, data quality, and specific context.
+
+Therefore, exercise caution when interpreting and applying these findings. Consider them as valuable insights rather than definitive conclusions. If you intend to use these results for any practical purposes, seek additional validation and consult domain experts.
+
+Remember that statistical analyses provide valuable information, but they do not replace critical thinking, domain knowledge, and context-specific considerations.
 
 
 REFERENCES:
