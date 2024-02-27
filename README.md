@@ -18,7 +18,18 @@ This project aims to statistically validate this hypothesis and explore potentia
 
 To demonstrate whether my hypothesis is right or not I will use a statistical analysis thecnique called: chi-square test.
 
-CHICAGO FACE DATABASE (CFD) DATASET  A C K N O W L E D G E M E N T 
+The project is organized into the following sections:
+
+* *README.md:* Read about the project and its main goal.
+* *Hypothesis:* The result hypothesis after manually inspecting and analyzing the dataset. 
+* *Data Collection and Preparation:* Ho I collected data and how I prepared it for static analysts.
+* *Chi-Square Test:* The execution of the chi-square test and hypothesis validation
+
+
+CHICAGO FACE DATABASE (CFD) DATASET  
+
+A C K N O W L E D G E M E N T
+
 CFD: Ma, Correll, & Wittenbrink (2015). The Chicago Face Database: A Free Stimulus Set of Faces and Norming Data. Behavior Research Methods, 47, 1122-1135. https://doi.org/10.3758/s13428-014-0532-5.
 CFD-MR: Ma, Kantner, & Wittenbrink, (2020). Chicago Face Database: Multiracial Expansion. Behavior Research Methods. https://doi.org/10.3758/s13428-020-01482-5.
 CFD-INDIA: Lakshmi, Wittenbrink, Correll, & Ma (2020). The India Face Set: International and Cultural Boundaries Impact Face Impressions and Perceptions of Category Membership. Frontiers in Psychology, 12, 161. https://doi.org/10.3389/fpsyg.2021.627678.
