@@ -24,8 +24,9 @@ Each ethnic group is expected to have at least 5 individuals aged over 60.
 
 ![enter image description here](https://github.com/antonyga/Bias-Insights/blob/main/Media/Observed%20Frequency%20vs%20Observed%20Frequency%20Table.png?raw=true)
 
+Let's now evaluate our data using the chi-square formula:
 
-![enter image description here](https://github.com/antonyga/Bias-Insights/blob/main/Media/Observed%20Frequency%20vs%20Observed%20Frequency%20Table.png?raw=true)
+![enter image description here](https://github.com/antonyga/Bias-Insights/blob/main/Media/Chi-square%20test%20execution.png?raw=true)
 
 After calculating the chi-square value, our next step is to evaluate the results using a probability table. In the first column, we find the degrees of freedom (DF), with our focus on row number 7.
 
