@@ -20,10 +20,10 @@ To demonstrate whether my hypothesis is right or not I will use a statistical an
 
 The project is organized into the following sections:
 
-* *README.md:* Read about the project and its main goal.
-* *Hypothesis:* The result hypothesis after manually inspecting and analyzing the dataset. 
-* *Data Collection and Preparation:* Ho I collected data and how I prepared it for static analysts.
-* *Chi-Square Test:* The execution of the chi-square test and hypothesis validation
+* **README.md:** Read about the project and its main goal.
+* **Hypothesis:** The result hypothesis after manually inspecting and analyzing the dataset. 
+* **Data Collection and Preparation:** Ho I collected data and how I prepared it for static analysts.
+* **Chi-Square Test:** The execution of the chi-square test and hypothesis validation
 
 
 CHICAGO FACE DATABASE (CFD) DATASET  
