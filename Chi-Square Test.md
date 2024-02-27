@@ -35,6 +35,8 @@ Our critical value is determined to be 14.067.
 
 ![enter image description here](https://github.com/antonyga/Bias-Insights/blob/main/Media/Probability%20Level%20Table%203.png?raw=true)
 
+**RESULTS AND DISCUSSION**
+
 The final step involves comparing our calculated chi-square value with the critical value from the table. If the chi-square value exceeds the critical value significantly, we accept our hypothesis as valid.
 
 chi-square value (71.1) > Critical Value (14.067)
@@ -43,7 +45,7 @@ In this specific case, the statement holds true, leading us to conclude that the
 
 It’s important to note that a language model trained solely on this dataset may exhibit unexpected behavior when recognizing or generating images of individuals older than 60 years old.
 
-  **DISCLAIMER:**
+**DISCLAIMER:**
 
 The findings presented in this project are based on rigorous analysis and interpretation. However, it is essential to recognize that these results are not official or universally applicable. Variations may exist due to factors such as sample size, data quality, and specific context.
 
