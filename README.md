@@ -1,5 +1,3 @@
-******* 🚧⚠️ PROJECT IS UNDER CONSTRUCTION ⚠️🚧 *********
-
 **ABOUT THE PROJECT**
 
 Bias Insights is a small Statistical Analysis Project for bias detection in a dataset before it is used to train a language model.
@@ -22,7 +20,7 @@ The project is organized into the following sections:
 
 * **README.md:** Read about the project and its main goal.
 * **Hypothesis:** The result hypothesis after manually inspecting and analyzing the dataset. 
-* **Data Collection and Preparation:** How I collected the data and how I prepared it for static analysts.
+* **Data Collection and Preparation:** How I collected the data and how I prepared it for static analysis.
 * **Chi-Square Test:** The execution of the chi-square test and hypothesis validation.
 
 
